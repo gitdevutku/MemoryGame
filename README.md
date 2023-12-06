@@ -47,5 +47,5 @@ Feel free to contribute by forking the repository and submitting a pull request.
 I learned how to use Java Swing and AWT libraries to provide the GUI components more precisely.
 
 ## Author
-[Utku Berki Baysal](@gitdevutku)
+[Utku Berki Baysal]([gitdevutku](https://github.com/gitdevutku)https://github.com/gitdevutku)
 
