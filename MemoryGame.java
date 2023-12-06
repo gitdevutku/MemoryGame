@@ -65,7 +65,7 @@ public class MemoryGame extends JFrame implements ActionListener {
             frame.dispose();
             new MemoryGame();
         }
-        if (flippedCards.size() == BOARD_SIZE * BOARD_SIZE) {
+        if (score == 8) {
             JOptionPane.showMessageDialog(null, "You won the game in " + attempts + " attempts");
             frame.dispose();
             new MemoryGame();
