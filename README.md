@@ -7,6 +7,8 @@ This is a simple implementation of a Memory Game in Java using Swing. The game f
   - [How to Play](#How-to-Play)
   - [Code Structure](#Code-Structure)
   - [Built with](#Dependencies)
+  - [Screenshots](#Screenshots)
+  - [Contributing](#Contributing)
   - [What I learned](#what-i-learned)
 - [Author](#author)
 ## Features
@@ -37,29 +39,6 @@ This is a simple implementation of a Memory Game in Java using Swing. The game f
 ## Screenshots
 
 ![image](https://github.com/gitdevutku/MemoryGame/assets/144778146/3ccfb1e0-b487-4730-8fcd-3c7832c93e4c)
-
-
-## How to Play
-
-1. Run the game.
-2. Flip over cards by clicking on them.
-3. Try to find all pairs of cards before running out of attempts.
-
-## Scoring
-
-The player's score increases each time they successfully find a pair of cards.
-
-## Winning the Game
-
-The player wins the game by finding all pairs of cards before running out of attempts.
-
-## Resetting the Game
-
-The game can be reset by clicking the "Reset" button.
-
-## Updating Labels
-
-The labels at the top of the screen show the number of attempts made so far and the player's current score.
 
 ## Contributing
 Feel free to contribute by forking the repository and submitting a pull request.
