@@ -9,7 +9,6 @@ This is a simple implementation of a Memory Game in Java using Swing. The game f
   - [Built with](#Dependecies)
   - [What I learned](#what-i-learned)
 - [Author](#author)
-- 
 ## Features
 
 - 4x4 game board
@@ -64,4 +63,10 @@ The labels at the top of the screen show the number of attempts made so far and 
 
 ## Contributing
 Feel free to contribute by forking the repository and submitting a pull request.
+
+## What I learned
+I learned how to use Java Swing and AWT libraries to provide the GUI components more precisely.
+
+## Author
+Utku Berki Baysal
 
