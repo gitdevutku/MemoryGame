@@ -1,7 +1,5 @@
-## What's Actually a Memory Game
-
-Memory Game is a popular game where players need to find pairs of cards with the same image. This Java Swing-based game generates random positions for each card on the board and ensures that each card is placed exactly twice.
 ## Memory Game
+Memory Game is a popular game where players need to find pairs of cards with the same image. This Java Swing-based game generates random positions for each card on the board and ensures that each card is placed exactly twice.
 
 This is a simple implementation of a Memory Game in Java using Swing. The game features a grid of cards, and the objective is to match pairs of cards with the same image.
 
