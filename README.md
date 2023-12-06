@@ -4,9 +4,9 @@ Memory Game is a popular game where players need to find pairs of cards with the
 This is a simple implementation of a Memory Game in Java using Swing. The game features a grid of cards, and the objective is to match pairs of cards with the same image.
 ## Contents
 - [Overview](#Features)
-  - [How to Play](#HowtoPlay)
-  - [Code Structure](#CodeStructure)
-  - [Built with](#Dependecies)
+  - [How to Play](#How-to-Play)
+  - [Code Structure](#Code-Structure)
+  - [Built with](#Dependencies)
   - [What I learned](#what-i-learned)
 - [Author](#author)
 ## Features
